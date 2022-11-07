@@ -1,1 +1,0 @@
-# thedridge.github.io
