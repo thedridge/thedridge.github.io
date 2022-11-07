@@ -5,17 +5,6 @@
     <link>https:thedridge.github.io/</link>
     <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 06 Nov 2022 20:39:37 -0800</lastBuildDate><atom:link href="https:thedridge.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First post</title>
-      <link>https:thedridge.github.io/posts/post/</link>
-      <pubDate>Sun, 06 Nov 2022 20:39:37 -0800</pubDate>
-      
-      <guid>https:thedridge.github.io/posts/post/</guid>
-      <description>Welcome to my homepage!</description>
-      
-    </item>
-    
+    <language>en</language><atom:link href="https:thedridge.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
